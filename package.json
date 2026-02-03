@@ -1,0 +1,22 @@
+{
+  "name": "eye",
+  "version": "1.0.0",
+  "main": "main.js",
+  "devDependencies": {
+    "electron": "^40.1.0"
+  },
+  "scripts": {
+    "start": "electron .",
+    "dev": "electron ."
+  },
+  "description": "Electron + PDF.js sheet music PDF viewer for study (fit, 2-page, zoom, lazy rendering)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/WhiteStarSupreme/eye.git"
+  },
+  "bugs": {
+    "url": "https://github.com/WhiteStarSupreme/eye/issues"
+  },
+  "homepage": "https://github.com/WhiteStarSupreme/eye#readme"
+}

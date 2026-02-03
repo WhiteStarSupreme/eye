@@ -1,0 +1,31 @@
+# dependencies
+node_modules/
+
+# build / package outputs
+dist/
+build/
+out/
+release/
+*.AppImage
+*.dmg
+*.exe
+
+# logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+*.log
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# misc
+*.swp
+*.swo
+
+# local PDFs
+public/*.pdf
